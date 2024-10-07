@@ -18,4 +18,4 @@ To run the UI, follow these steps:
 ## UI Snippets
 ---------------
 
-![UI Screenshot](screenshot.png)
+![UI Screenshot](https://github.com/VibhuRaj01/Web_Browsing_LLM/blob/main/src/Page-1.png)
